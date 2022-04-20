@@ -8,8 +8,6 @@ Install **latest FFmpeg** to the **Google Colab** runtime.
 
 # **Table of Contents**
 
-<img width=250 align="right" alt="FFmpeg-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/FFmpeg-Logo.png></img>
-
 - **FFmpeg**
     - **Remux Video files**
     - **Trim Video Files**
@@ -18,3 +16,8 @@ Install **latest FFmpeg** to the **Google Colab** runtime.
     - **Encode H.264 | CRF**
     - **Encode H.264 | 2-Pass**
     - **HDR to SDR**
+    - **HDR10 Encoding**
+
+<p align="center">
+    <img width=50 alt="FFmpeg-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/FFmpeg-Logo.png></img>
+</p>
