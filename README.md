@@ -2,7 +2,7 @@
 
 Install latest __FFmpeg__ to the __Google Colab__ runtime.
 
-<a href="https://colab.research.google.com/github/dropcreations/FFmpeg-for-Google-Colab/blob/main/FFmpeg_in_Google_Drive.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+<a href="https://colab.research.google.com/github/dropcreations/FFmpeg-for-Google-Colab/blob/main/FFmpeg-in-Google-Drive.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 - Click on the __"Open in Colab"__ button to open this notebook in google colab
 
